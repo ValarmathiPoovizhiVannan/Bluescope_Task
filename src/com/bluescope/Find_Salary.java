@@ -1,5 +1,8 @@
+/*Take employee details (ID, Gender, Name, Salary)
+Store them in a Map
+Find Maximum salary, Middle salary, and Lowest salary*/
+	
 package com.bluescope;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
@@ -26,3 +29,4 @@ public class Find_Salary {
 	}
 
 }
+
